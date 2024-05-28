@@ -1,0 +1,12 @@
+[package]
+name = "download_organizer"
+version = "0.1.0"
+authors = ["Retro <jekabsoss21@gmail.com>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+notify = "6.1.1"
+directories = "5.0.1"
+dialoguer = "0.11.0"
